@@ -26,7 +26,7 @@ public class Class {
 	
 	
 	if (michaelsBike.equals(shanesBike)){
-			System.out.println("equals YES");
+			System.out.println("equals YES and this is all new......");
 		}
 		else 
 			System.out.println("equals NO");
